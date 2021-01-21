@@ -6,6 +6,7 @@ Author: Anna Snoeck
 Maintainer: Anna Snoeck <anna.snoeck@ugent.be>
 Description: This is to learn how to write a package.
     Use four spaces when indenting paragraphs within the Description.
+Imports: stats
 License: GPL(>=2)
 Encoding: UTF-8
 LazyData: true
